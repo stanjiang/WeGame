@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+<key>play</key>
+<string>开始游戏</string>
+<key>help</key>
+<string>帮助</string>
+<key>highScore</key>
+<string>最高分数</string>
+</dict>
